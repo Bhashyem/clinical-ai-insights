@@ -1,0 +1,8 @@
+openai
+chromadb
+langchain-text-splitters
+sentence-transformers
+requests
+streamlit
+fastapi
+uvicorn
