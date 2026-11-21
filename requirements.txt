@@ -6,3 +6,7 @@ requests
 streamlit
 fastapi
 uvicorn
+anthropic
+pandas
+altair
+pytest
